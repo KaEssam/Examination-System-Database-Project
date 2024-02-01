@@ -25,7 +25,7 @@ The database schema consists of several tables to organize and manage data effec
 
 ## Installation and Setup
  **Database Setup**:
-   - Install and configure the preferred database management system (e.g., MySQL, PostgreSQL).
+   - Install and configure the preferred database management system.
    - Create a new database and execute the provided SQL script to create tables and define relationships.
 
 
