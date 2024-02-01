@@ -35,3 +35,7 @@ The database schema consists of several tables to organize and manage data effec
 - **Grading System**: Define grading criteria and automate the grading process to ensure consistency and accuracy.
 - **Result Management**: Access and manage exam results securely, allowing students and administrators to view and track performance.
 
+
+## Contributors
+- [Hassan Adel](https://github.com/HassanAdel12)
+
