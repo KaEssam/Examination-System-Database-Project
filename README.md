@@ -38,4 +38,5 @@ The database schema consists of several tables to organize and manage data effec
 
 ## Contributors
 - [Hassan Adel](https://github.com/HassanAdel12)
+- [Ola Elnakeib](https://github.com/ola-elnakeib)
 
