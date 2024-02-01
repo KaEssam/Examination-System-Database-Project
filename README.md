@@ -11,7 +11,7 @@ The Examination System Database Project is a comprehensive solution designed to 
 - **User Authentication**: Implements secure user authentication mechanisms to control access to the system.
 
 ## Technologies Used
-- **Database Management System**: sql
+- **Database Management System**: SQL
 
 ## Database Schema
 The database schema consists of several tables to organize and manage data effectively:
